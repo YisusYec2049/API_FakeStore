@@ -1,6 +1,7 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
-    <application
-        android:label="api_products"
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.api">
+   <application
+        android:label="api"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

@@ -1,4 +1,4 @@
-# api_products
+# api
 
 A new Flutter project.
 

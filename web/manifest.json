@@ -1,6 +1,6 @@
 {
-    "name": "api_products",
-    "short_name": "api_products",
+    "name": "api",
+    "short_name": "api",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
